@@ -1,1 +1,1 @@
-# cn.mail-list.erl.ex
+# erlang邮件列表.cn
